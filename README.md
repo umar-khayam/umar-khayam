@@ -1,5 +1,5 @@
-<h1 align="Left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Umar Khayam</h1>
-<h2 align="center">I'm a passionate Data Scientist from Pakistan</h3>
+<h3 align="Left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Umar Khayam</h3>
+<h2 align="center">I'm a passionate Data Scientist from Pakistan</h2>
 
 #### 🙋‍♂️ About Me
 
@@ -23,7 +23,7 @@
     <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/></a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/tensorflow.png"/></a>
     
-#### Connect with me:
+#### 📱 Connect with me:
 
 <p align="left">
 
