@@ -1,5 +1,5 @@
 <h3 align="Left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Umar Khayam</h3>
-<h2 align="center">I'm a passionate Data Scientist from Pakistan</h2>
+<h2 align="center">I'm a passionate data scientist from Pakistan</h2>
 #### 🙋‍♂️ About Me
 
 - I’m currently working on **Data Science**
