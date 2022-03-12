@@ -1,7 +1,7 @@
-<h2 align="Left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Umar Khayam</h1>
-<h3 align="center">I'm a passionate Data Scientist from Pakistan.</h3>
+<h1 align="Left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Umar Khayam</h1>
+<h2 align="center">I'm a passionate Data Scientist from Pakistan.</h3>
 
-## 🙋‍♂️ About Me
+#### 🙋‍♂️ About Me
 
 - I’m currently working on **Data Science**
 
@@ -13,7 +13,7 @@
 
 - How to reach me **u.khayam08@gmail.com**
 
-## 🚀 Languages and Tools:
+#### 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
@@ -23,7 +23,7 @@
     <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/></a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/tensorflow.png"/></a>
     
-## Connect with me:
+#### Connect with me:
 
 <p align="left">
 
