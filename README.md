@@ -3,13 +3,13 @@
 
 #### 🙋‍♂️ About Me
 
-- I’m currently working on **Data Science**
+- I’m currently working on **Data Science/ Data Engineer**
 
-- I’m currently learning more about **Machine Learning and Deep Learning**
+- I’m currently learning more about **My field**
 
 - All of my projects are available at **https://github.com/umar-khayam**
   
-- Ask me about Data Science and Machine Learning
+- Ask me about Data Science or Data Engineer
 
 - How to reach me **u.khayam08@gmail.com**
 
