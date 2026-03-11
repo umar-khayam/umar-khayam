@@ -2,15 +2,15 @@
 
 #### 🙋‍♂️ About Me
 
-- I’m currently working on **Data Science/ Data Engineer**
+- I am currently working on **Data Science/ AI**
 
-- I’m currently learning more about **My field**
+- I am currently learning more about **My field**
 
 - All of my projects are available at **https://github.com/umar-khayam**
   
-- Ask me about Data Science or Data Engineer
+- Ask me about Data Science or AI
 
-- How to reach me **u.khayam08@gmail.com**
+- How to reach me **u.khayam03@gmail.com**
 
 #### 🚀 Languages and Tools:
 
